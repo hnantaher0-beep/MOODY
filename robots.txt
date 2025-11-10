@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://moody-delta-two.vercel.app/sitemap.xml
